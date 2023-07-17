@@ -309,7 +309,6 @@ a,button{
     min-height: 80vh;
     margin-top: 20px;
     background-color: #263142;
-	z-index:2;
 	
 }
 
@@ -320,7 +319,6 @@ a,button{
     height: 200px;
     transform-style: preserve-3d;
     animation: animate 20s linear infinite;
-	z-index:2;
 }
 @keyframes animate{
     0% 
@@ -343,7 +341,7 @@ a,button{
      -webkit-box-reflect: below 200px linear-gradient(transparent,transparent, #5c9cfd ); 
 }
 .box span img{
-    position: absolute;
+   /* position: absolute;*/
     width: 50%;
     height: 50%;
     z-index:1;
