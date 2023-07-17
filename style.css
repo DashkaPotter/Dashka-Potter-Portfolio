@@ -308,6 +308,7 @@ a,button{
     min-height: 80vh;
     margin-top: 20px;
     background-color: #263142;
+	z-index:1;
 }
 
 .box{
