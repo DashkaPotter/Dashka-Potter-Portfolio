@@ -901,6 +901,12 @@ a,button{
     width: 100px;
     height: 100px;
 }
+	.box span img{
+   /* position: absolute;*/
+    width: 50%;
+    height: 50%;
+    z-index:0;
+}
 .box span{
     transform: rotateY(calc(var(--i) * 45deg)) translateZ(110px);
 }
