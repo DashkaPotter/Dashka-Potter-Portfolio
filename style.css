@@ -64,7 +64,7 @@ a,button{
     top: 120px;
     right: 40px;
     width: 240px;
-    z-index: 2;
+    z-index: 5;
 }
 
 .navigation{
