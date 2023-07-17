@@ -308,7 +308,7 @@ a,button{
     min-height: 80vh;
     margin-top: 20px;
     background-color: #263142;
-	z-index:1;
+	
 }
 
 .box{
@@ -331,6 +331,7 @@ a,button{
 }
 .box span{
     position: absolute;
+	z-index:1;
     width: 100%;
     height: 100%;
     transform-origin: center;
