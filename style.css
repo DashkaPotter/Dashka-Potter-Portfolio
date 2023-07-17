@@ -810,13 +810,13 @@ a,button{
         top: 5%;
         left: 82%;
         width: 30px;
-        height: 50px;
+        height: 40px;
         transform: translateY(-50%);
         border: 0;
         background: 0 0;
     }
     .navbar{
-    padding: 19px;
+    padding: 15px;
     width: 100%;
     }
     .navbar a{
