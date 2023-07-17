@@ -96,8 +96,8 @@ a,button{
     top: 7%;
     left: 85%;
     width: 30px;
-    height: 39px;
-    transform: translateY(-42%);
+    height: 45px;
+    transform: translateY(-50%);
     border: 0;
     background: 0 0;
 }
@@ -814,8 +814,8 @@ a,button{
         top: 5%;
         left: 85%;
         width: 30px;
-        height: 38px;
-        transform: translateY(-40%);
+        height: 42px;
+        transform: translateY(-50%);
         border: 0;
         background: 0 0;
     }
