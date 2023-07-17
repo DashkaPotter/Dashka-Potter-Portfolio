@@ -148,7 +148,7 @@ a,button{
     background-color: #5c9cfd;
     color: white;
     box-shadow: 0 5px 15px 0 rgb(0,0,0,0.4);
-    z-index: 2;
+    z-index: 1;
     top: 0;
 }
 .logo{
