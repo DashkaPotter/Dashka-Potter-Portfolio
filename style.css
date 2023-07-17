@@ -64,6 +64,7 @@ a,button{
     top: 120px;
     right: 40px;
     width: 240px;
+    z-index: 2;
 }
 
 .navigation{
@@ -330,8 +331,7 @@ a,button{
     }
 }
 .box span{
-    position: absolute;
-	z-index:-1;
+    
     width: 100%;
     height: 100%;
     transform-origin: center;
