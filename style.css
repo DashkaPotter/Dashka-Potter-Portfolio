@@ -64,7 +64,7 @@ a,button{
     top: 120px;
     right: 40px;
     width: 240px;
-    z-index: 2;
+    z-index: 1;
 }
 
 .navigation{
@@ -75,7 +75,7 @@ a,button{
     height: 100%;
     background-color: #5c9cfd;
     transition: .5s;
-	z-index: 2;
+	z-index: 1;
 }
 
 .navigation ul li{
@@ -152,7 +152,7 @@ a,button{
     color: white;
     box-shadow: 0 5px 15px 0 rgb(0,0,0,0.4);
     top: 0;
-	z-index: 2;
+	z-index: 3;
 }
 .logo{
     margin-left: 39px;
@@ -321,6 +321,8 @@ a,button{
     height: 200px;
     transform-style: preserve-3d;
     animation: animate 20s linear infinite;
+	z-index:2;
+	
 }
 @keyframes animate{
     0% 
