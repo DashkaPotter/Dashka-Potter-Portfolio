@@ -75,7 +75,6 @@ a,button{
     background-color: #5c9cfd;
     transition: .5s;
 	z-index: 4;
-	position:sticky;
 }
 
 .navigation ul li{
