@@ -79,11 +79,12 @@ a,button{
 
 .navigation ul li{
     color: #fff;
-    text-align: right;
+/*     text-align: right; */
     text-transform: uppercase;
     list-style-type: none;
     font-size: 1em;
     padding: 30px 20px;
+	margin-left: 120px;
 
 }
 
