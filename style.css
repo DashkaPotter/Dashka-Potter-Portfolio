@@ -75,7 +75,7 @@ a,button{
     height: 100%;
     background-color: #5c9cfd;
     transition: .5s;
-	z-index: 6;
+	z-index: 2;
 }
 
 .navigation ul li{
@@ -85,7 +85,7 @@ a,button{
     list-style-type: none;
     font-size: 1em;
     padding: 30px 20px;
-	z-index: 6;
+
 }
 
 .hamburger, .bar{
@@ -122,6 +122,7 @@ a,button{
 .navigation.active{
     right: 0;
     top: 0;
+	
 }
 
 .hamburger.open #bar1{
