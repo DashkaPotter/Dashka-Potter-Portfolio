@@ -75,7 +75,7 @@ a,button{
     background-color: #5c9cfd;
     transition: .5s;
 	z-index: 4;
-	overflow:hidden;
+	opacity:2;
 }
 
 .navigation ul li{
