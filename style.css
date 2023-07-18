@@ -85,6 +85,7 @@ a,button{
     list-style-type: none;
     font-size: 1em;
     padding: 30px 20px;
+	 z-index: 4;
 }
 
 .hamburger, .bar{
