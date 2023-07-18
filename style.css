@@ -75,6 +75,7 @@ a,button{
     height: 100%;
     background-color: #5c9cfd;
     transition: .5s;
+	z-index: 6;
 }
 
 .navigation ul li{
@@ -84,6 +85,7 @@ a,button{
     list-style-type: none;
     font-size: 1em;
     padding: 30px 20px;
+	z-index: 6;
 }
 
 .hamburger, .bar{
@@ -148,7 +150,6 @@ a,button{
     background-color: #5c9cfd;
     color: white;
     box-shadow: 0 5px 15px 0 rgb(0,0,0,0.4);
-    z-index: 6;
     top: 0;
 }
 .logo{
