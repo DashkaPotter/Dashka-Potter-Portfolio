@@ -64,7 +64,7 @@ a,button{
     top: 120px;
     right: 40px;
     width: 240px;
-    z-index: 5;
+    z-index: 2;
 }
 
 .navigation{
@@ -73,7 +73,6 @@ a,button{
     right: -400px;
     width: 200px;
     height: 100%;
-    z-index: 6;
     background-color: #5c9cfd;
     transition: .5s;
 }
@@ -85,7 +84,6 @@ a,button{
     list-style-type: none;
     font-size: 1em;
     padding: 30px 20px;
-	 z-index: 4;
 }
 
 .hamburger, .bar{
