@@ -1090,7 +1090,7 @@ position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
-	margin-top:50px;
+	padding:50px 20px;
 	margin-bottom:40px;
 }
 .skills-title{
