@@ -1042,6 +1042,7 @@ position: absolute;
 .par-title{
     font-size: 14px;
     padding: 10px;
+	font-weight:bold;
 }
 
 .box-container{
@@ -1203,6 +1204,11 @@ position: absolute;
 .about-me{
     font-size: 25px;
     padding: 0px 20px;
+}
+	.par-title{
+    font-size: 14px;
+    padding: 10px;
+	font-weight:bold;
 }
 
 .portfolio-img{
