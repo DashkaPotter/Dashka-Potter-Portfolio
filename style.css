@@ -949,11 +949,12 @@ position: absolute;
 @media all and (max-width:500px){
     .navigation{
         display: block;
+	     width: 170px;
     }
 	.navigation ul li{
     text-transform: uppercase;
     list-style-type: none;
-    font-size: 15px;
+    font-size: 16px;
     padding: 20px 20px;
 	margin-left: 120px;
 }
@@ -1010,7 +1011,7 @@ position: absolute;
     }
 .about-me{
     font-size: 25px;
-    padding: 0px 20px;
+    padding: 20px 20px;
 }
 .home-info{
     margin-left: 0px;
