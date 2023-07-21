@@ -735,7 +735,6 @@ position: absolute;
 
 
 
-
 @media all and (max-width:830px){
     .navigation{
         display: block;
@@ -790,6 +789,7 @@ position: absolute;
 .about-me{
     font-size: 25px;
     padding: 20px 20px;
+    margin-bottom:20px;
 }
 .home-info{
     margin-left: 0px;
@@ -1015,6 +1015,7 @@ position: absolute;
 .about-me{
     font-size: 25px;
     padding: 20px 20px;
+ margin-bottom:20px;
 }
 .home-info{
     margin-left: 0px;
@@ -1025,7 +1026,7 @@ position: absolute;
     align-items: center;
     justify-content: center;
     margin-top: 10px;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 .about-par{
     width: 260px;
