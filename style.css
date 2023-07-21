@@ -950,6 +950,13 @@ position: absolute;
     .navigation{
         display: block;
     }
+	.navigation ul li{
+    text-transform: uppercase;
+    list-style-type: none;
+    font-size: 15px;
+    padding: 20px 20px;
+	margin-left: 120px;
+}
     .hamburger{
         display: block;
         top: 5%;
