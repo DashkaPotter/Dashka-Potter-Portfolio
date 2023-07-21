@@ -684,7 +684,8 @@ position: absolute;
 }
 .par-title{
     font-size: 24px;
-    padding: 10px;
+    padding: 20px;
+	font-weight:bold;
 }
 #services{
     min-height: 58vh;
@@ -816,7 +817,8 @@ position: absolute;
 }
 .par-title{
     font-size: 20px;
-    padding: 10px;
+    padding: 20px;
+   font-weight:bold;
 }
 #services{
     min-height: 58vh;
@@ -1041,7 +1043,7 @@ position: absolute;
 }
 .par-title{
     font-size: 14px;
-    padding: 10px;
+    padding: 20px;
 	font-weight:bold;
 }
 
