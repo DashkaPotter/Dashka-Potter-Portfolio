@@ -867,7 +867,9 @@ position: absolute;
     text-transform: uppercase;
     font-size: 25px;
     padding: 20px 0px;
+
 }
+	
 .projects-div{
     display: flex;
     flex-direction: column;
@@ -1063,6 +1065,9 @@ position: absolute;
 .box span{
     transform: rotateY(calc(var(--i) * 45deg)) translateZ(110px);
 }
+#services{
+    min-height: 58vh;
+}
 .skills-container{
     display: flex;
     flex-direction: column;
@@ -1084,6 +1089,7 @@ position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
+	margin-bottom:40px;
 }
 .skills-title{
     text-transform: uppercase;
