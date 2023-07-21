@@ -637,10 +637,10 @@ position: absolute;
     }
 
     .text-1{
-        font-size: 28px;
+        font-size: 32px;
     }
     .text-2{
-        font-size: 34px;
+        font-size: 36px;
         font-weight: 800;
         padding: 20px 0px;
     }
@@ -683,7 +683,7 @@ position: absolute;
     font-weight: 400;
 }
 .par-title{
-    font-size: 20px;
+    font-size: 24px;
     padding: 10px;
 }
 #services{
