@@ -121,4 +121,8 @@ particlesJS("particles-js", {
 function show(){
   document.querySelector('.hamburger').classList.toggle('open')
   document.querySelector('.navigation').classList.toggle('active')
+    document.querySelectorAll('.item').forEach(n => n.addEventListener("click",()=>{
+		('.hamburger').classList.remove('open')
+		('.navigation').classList.remove('active');
+	}))
 }
