@@ -1094,8 +1094,8 @@ position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
-	padding:50px 20px;
-	margin-bottom:40px;
+    padding:30px 20px;
+    margin-bottom:30px;
 }
 .skills-title{
     text-transform: uppercase;
